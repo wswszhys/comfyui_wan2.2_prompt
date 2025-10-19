@@ -1,0 +1,1 @@
+# comfyui_wan2.2_prompt
